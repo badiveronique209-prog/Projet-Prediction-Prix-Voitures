@@ -26,7 +26,7 @@ La puissance moteur et le nombre de cylindres sont les variables
 les plus importantes pour prédire le prix.
 
 Les résidus sont globalement centrés autour de zéro, avec quelques
-erreurs plus élevées sur les modèles haut de gamme — difficiles
+erreurs plus élevées sur les modèles haut de gamme difficiles
 à capturer avec les seules caractéristiques techniques.
 
 
@@ -49,7 +49,7 @@ et encodage ordinal.
 Modélisation  régression linéaire et Random Forest,
 tous deux dans un pipeline complet.
 
-Évaluation — R^2, MAE, RMSE, graphique prédit vs réel,
+Évaluation  R^2, MAE, RMSE, graphique prédit vs réel,
 analyse des résidus, importance des variables.
 
 
